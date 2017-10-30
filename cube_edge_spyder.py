@@ -372,8 +372,7 @@ def cross(cube): #insanely inefficient but it works
 #one of those 8 cases
 
 #total of 12 cases
-def solveMiddleLayer(cube):
-    for item in 
+
 
 for item in cube2:
     print(item)
